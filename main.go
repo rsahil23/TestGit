@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
 
 	cards := newdeck()
@@ -10,7 +12,7 @@ func main() {
 	cards1.print()
 	cards2.print()
 
-	//fmt.Println(cards)
+	fmt.Println("Hi")
 
 }
 
