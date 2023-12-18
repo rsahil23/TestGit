@@ -12,7 +12,7 @@ func main() {
 	cards1.print()
 	cards2.print()
 
-	fmt.Println("Hi")
+	fmt.Println("Hello")
 
 }
 
